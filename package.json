@@ -1,0 +1,25 @@
+{
+  "name": "tareaservidormanon",
+  "version": "1.0.0",
+  "description": "TareaManon",
+  "homepage": "https://github.com/YandellCM/webserverExample#readme",
+  "bugs": {
+    "url": "https://github.com/YandellCM/webserverExample/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YandellCM/webserverExample.git"
+  },
+  "license": "MIT",
+  "author": "Yandell Cuevas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
